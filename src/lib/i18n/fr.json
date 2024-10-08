@@ -1,0 +1,31 @@
+{
+  "welcome": "Bienvenue dans l'archive de documents",
+  "description": "Archivez et gérez vos documents en toute sécurité",
+  "auth": {
+    "title": "Connectez-vous à votre compte",
+    "email": "Adresse e-mail",
+    "password": "Mot de passe",
+    "login": "Se connecter",
+    "register": "S'inscrire"
+  },
+  "documents": {
+    "title": "Documents",
+    "addNew": "Ajouter un nouveau document",
+    "noDocuments": "Aucun document trouvé",
+    "code": "Code",
+    "category": "Catégorie",
+    "description": "Description",
+    "archiveDate": "Date d'archivage",
+    "view": "Voir",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "confirmDelete": "Êtes-vous sûr de vouloir supprimer ce document ?",
+    "newDocument": "Nouveau document",
+    "create": "Créer un document",
+    "createError": "Erreur lors de la création du document",
+    "editDocument": "Modifier le document",
+    "update": "Mettre à jour le document",
+    "updateError": "Erreur lors de la mise à jour du document",
+    "details": "Détails du document"
+  }
+}

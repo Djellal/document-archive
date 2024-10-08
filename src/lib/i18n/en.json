@@ -1,0 +1,31 @@
+{
+  "welcome": "Welcome to Document Archive",
+  "description": "Securely archive and manage your documents",
+  "auth": {
+    "title": "Sign in to your account",
+    "email": "Email address",
+    "password": "Password",
+    "login": "Sign in",
+    "register": "Register"
+  },
+  "documents": {
+    "title": "Documents",
+    "addNew": "Add New Document",
+    "noDocuments": "No documents found",
+    "code": "Code",
+    "category": "Category",
+    "description": "Description",
+    "archiveDate": "Archive Date",
+    "view": "View",
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirmDelete": "Are you sure you want to delete this document?",
+    "newDocument": "New Document",
+    "create": "Create Document",
+    "createError": "Error creating document",
+    "editDocument": "Edit Document",
+    "update": "Update Document",
+    "updateError": "Error updating document",
+    "details": "Document Details"
+  }
+}
